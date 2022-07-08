@@ -1,0 +1,4 @@
+services:
+  gridbot:
+    restart: always
+    build: ./
