@@ -1,4 +1,4 @@
-# MapgGridBot
+# MapGridBot
 Is a Telegram bot that generates coordinate grid for a chosen area of a map.
 ## Usage
 You send a message to the bot with a parameters as described below. Bot sends you a file of a grid in .gpx format.
